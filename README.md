@@ -1,30 +1,18 @@
-# Welcome to my repository 👩🏻‍💻💻
+# Hi! I'm Anne-Mari! 👋 
+#### I'm currently learning Java ☕ and Python 🐍
 
-## My skills
+## The languages I have learned:
+```
 - Java
 - Python
 - C#
 - JavaScript
 - html
 - css
-- Github
+```
+## I want to learn next:
+```
+- Spring framework and spring boot
+- SQL
+```
 
-
-## E.g. part of the code
-```java
- int temperature = 16;    
-  if (temperature ==5) {
-    System.out.println("Wear super warm clothes!");
-  } 
-  else if (temperature >5 && temperature <= 15) {
-    System.out.println("Wear warm clothes!");
-  }
-  else if (temperature >15 && temperature <= 30) {
-    System.out.println("Wear normal clothers!");
-  } 
-  else if (temperature >30) {
-    System.out.println("You need cooling!");
-  } 
-  else {
-      System.out.println("Enter correct temperature.");
-  }
