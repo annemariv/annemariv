@@ -12,7 +12,7 @@ Read me file uses markdown syntax to edit any text, formulas or code.
 - Github
 
 
-## E.g. My fav part of code
+## E.g. part of the code
 ```java
  int temperature = 16;    
   if (temperature ==5) {
