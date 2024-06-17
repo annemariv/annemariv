@@ -1,5 +1,5 @@
 ---
-<h1 align="center">Hi! I'm Anne-Mari!  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="60" height="60" /></h1>
+<h1 align="center">Hi! I'm Anne-Mari!  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="40" height="40" /></h1>
 
 ## About me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Technologist.png" alt="Woman Technologist" width="30" height="30" />:
 - Passionate about coding/programming:
@@ -20,7 +20,5 @@
 - JavaScript
 - HTML
 - CSS
-
-<br> <!-- Empty line -->
   
 ---
