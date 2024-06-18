@@ -20,5 +20,8 @@
 - JavaScript
 - HTML
 - CSS
-  
+
+## Let's connect:
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians" width="25" height="25" /> [LinkedIn](https://www.linkedin.com/in/anne-mari-velling)
+
 ---
