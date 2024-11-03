@@ -12,7 +12,9 @@
   - Tailwind CSS      
 
 ## My other skills <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="30" height="30" />:
-- Programming: Java and Python
+- Programming
+  -  Java
+  -  Python
 - WordPress
 - Adobe Illustrator
 
