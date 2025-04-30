@@ -5,19 +5,15 @@
 - Passion for web development and design:
   - I can solve real issues and make people's lives easier
   - I can design websites making them visually appealing and user-friendly (UX)
-- Currently learning:
-  - PHP <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Elephant.png" alt="Elephant" width="25" height="25" alt="Hot Beverage" width="25" height="25" />
-  - JavaScript
-  - Laravel
-  - Vue.js
-  - Tailwind CSS
 
-## My other skills <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="30" height="30" />:
+## My skills <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="30" height="30" />:
 - Programming and web development:
   -  Java <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Hot Beverage" width="25" height="25" />
   -  Python <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="25" height="25" />
   -  HTML
   -  CSS
+  -  Javascript
+  -  Golang
 - WordPress
 - Adobe Illustrator
 
